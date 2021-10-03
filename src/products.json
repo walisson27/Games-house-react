@@ -1,0 +1,65 @@
+[
+  {
+    "id": 312,
+    "name": "Super Mario Odyssey",
+    "price": 205.15,
+    "score": 405,
+    "image": "super-mario-odyssey.png"
+  },
+  {
+    "id": 201,
+    "name": "Call of Duty®:Cold War",
+    "price": 75.99,
+    "score": 85,
+    "image": "Call of Duty® Black Ops - Cold War.png"
+  },
+  {
+    "id": 102,
+    "name": "The Witcher III Wild Hunt",
+    "price": 222.55,
+    "score": 280,
+    "image": "the-witcher-iii-wild-hunt.png"
+  },
+  {
+    "id": 99,
+    "name": "Call of Duty: Modern Warfare",
+    "price": 228.22,
+    "score": 350,
+    "image": "call of duty modern warfare.png"
+  },
+  {
+    "id": 12,
+    "name": "Mortal Kombat XL",
+    "price": 80.75,
+    "score": 175,
+    "image": "mortal-kombat-xl.png"
+  },
+  {
+    "id": 74,
+    "name": "Shards of Darkness",
+    "price": 74.85,
+    "score": 400,
+    "image": "shards-of-darkness.png"
+  },
+  {
+    "id": 31,
+    "name": "Terra Média: Sombras de Mordor",
+    "price": 85.35,
+    "score": 50,
+    "image": "terra-media-sombras-de-mordor.png"
+  },
+  {
+    "id": 420,
+    "name": "FIFA 22",
+    "price": 247.99,
+    "score": 325,
+    "image": "fifa-22.png"
+  },
+  {
+    "id": 501,
+    "name": "Horizon Zero Dawn",
+    "price": 135.80,
+    "score": 435,
+    "image": "horizon-zero-dawn.png"
+  }
+]
