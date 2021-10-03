@@ -1,7 +1,7 @@
 ### Rodando o aplicativo
 
-yarn install
-```
-yarn start
-```
-Abra o endereço http://localhost:3000 para visualizar o site Web.
+1- yarn install
+
+2- yarn start
+
+3- Abra o endereço http://localhost:3000.
