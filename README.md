@@ -1,5 +1,5 @@
 <h1 align="center">
-     Pokémon
+     Games-House
 </h1>
 
 <h4 align="center">
@@ -18,9 +18,6 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - ReactJs
-- Styled-components
-- Axios 
-- Utilizando Api [PokéAPI](https://pokeapi.co/)
 
 <br>
 
