@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - ReactJs
 - Redux
-- 
+- Bootstrap
 <br>
 
 ## 💻 Instalação
