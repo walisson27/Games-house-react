@@ -18,8 +18,8 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - ReactJs
-- 
 - Redux
+- 
 <br>
 
 ## 💻 Instalação
